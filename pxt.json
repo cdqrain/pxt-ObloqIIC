@@ -1,0 +1,19 @@
+{
+    "name": "ObloqIIC",
+    "version": "0.0.1",
+    "description": "Add Wi-Fi connectivity to micro:bit and start your IoT project in 5 minutes!",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "ObloqIIC.ts",
+        "_locales/zh-cn/ObloqIIC-strings.json",
+        "_locales/zh-tw/ObloqIIC-strings.json"
+    ],
+    "testFiles": [],
+    "public": true,
+    "installedVersion": "workspace:ec3099df-1b6d-4235-8081-522b7681de40"
+}

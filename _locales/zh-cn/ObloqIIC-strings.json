@@ -1,0 +1,17 @@
+{
+    "ObloqIIC.SERVERS.China|block": "中国",
+    "ObloqIIC.SERVERS.Global|block": "全球",
+    "ObloqIIC.ObloqIIC_MQTT|block": "Micro:IoT MQTT 初始设置| Wi-Fi:| 名称: %SSID| 密码:%PASSWORD|物联网服务:| IoT_id: %IOT_ID| IoT_pwd: %IOT_PWD| (默认topic_0)TOPIC: %IOT_TOPIC| 启动连接:| 服务器: %SERVERS",
+    "ObloqIIC.ObloqIIC_SendMessage|block": "发送消息 %string| 至 |%TOPIC",
+    "ObloqIIC.ObloqIIC_MQTT_Event|block": "在 %top |收到消息时运行",
+    "ObloqIIC.ObloqIIC_add_topic|block": "新增订阅 %top |: %IOT_TOPIC",
+    "ObloqIIC.ObloqIIC_http_setup|block": "Micro:IoT http 初始设置| Wi-Fi:| 名称: %SSID| 密码:%PASSWORD| http 配置: | ip地址: %IP| 端口号: %PORT| 启动连接",
+    "ObloqIIC.ObloqIIC_http_get|block": "http(get) | url %url| 超时(毫秒) %time",
+    "ObloqIIC.ObloqIIC_http_post|block": "http(post) | url %url| content %content| 超时(毫秒) %time",
+    "ObloqIIC.ObloqIIC_http_put|block": "http(put) | url %url| content %content| 超时(毫秒) %time",
+    "ObloqIIC.ObloqIIC_send_ping|block": "发送PING",
+    "ObloqIIC.ObloqIIC_get_version|block": "版本号",
+    "ObloqIIC.ObloqIIC_get_heartbeat|block": "心跳请求",
+    "ObloqIIC.ObloqIIC_stop_heartbeat|block": "停止心跳请求",
+    "ObloqIIC.ObloqIIC_wifi_ipconfig|block": "获取IP地址"
+}
